@@ -1,3 +1,7 @@
+---
+layout: default
+title: From Tonkin to India
+---
 <!-- This file was created from text provided by the British Library. --> 
 
 
