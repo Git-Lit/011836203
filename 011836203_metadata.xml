@@ -1,0 +1,72 @@
+<mets xmlns="http://www.loc.gov/METS/" xmlns:MODS="http://www.loc.gov/mods/v3"><dmdSec ID="MODSMD">
+    <mdWrap LABEL="Bibliographic meta-data of the printed version" MDTYPE="MODS" MIMETYPE="text/xml">
+      <xmlData>
+        <MODS:mods version="3.1">
+          <MODS:titleInfo>
+            <MODS:title>From Tonkin to India</MODS:title>
+            <MODS:subTitle>by the sources of the Irawadi, January '95-January '96</MODS:subTitle>
+          </MODS:titleInfo>
+          <MODS:titleInfo type="uniform">
+            <MODS:title>Du Tonkin aux Indes. English</MODS:title>
+          </MODS:titleInfo>
+          <MODS:name type="personal">
+            <MODS:namePart>Orléans, Henri d'</MODS:namePart>
+            <MODS:namePart type="termsOfAddress">Prince</MODS:namePart>
+            <MODS:namePart type="date">1867-1901</MODS:namePart>
+            <MODS:role>
+              <MODS:roleTerm authority="marcrelator" type="text">creator</MODS:roleTerm>
+            </MODS:role>
+          </MODS:name>
+          <MODS:typeOfResource>text</MODS:typeOfResource>
+          <MODS:originInfo>
+            <MODS:place>
+              <MODS:placeTerm authority="marccountry" type="code">enk</MODS:placeTerm>
+            </MODS:place>
+            <MODS:place>
+              <MODS:placeTerm type="text">London</MODS:placeTerm>
+            </MODS:place>
+            <MODS:publisher>Methuen</MODS:publisher>
+            <MODS:dateIssued>1898</MODS:dateIssued>
+            <MODS:issuance>monographic</MODS:issuance>
+          </MODS:originInfo>
+          <MODS:language>
+            <MODS:languageTerm authority="iso639-2b" type="code">eng</MODS:languageTerm>
+          </MODS:language>
+          <MODS:physicalDescription>
+            <MODS:extent>xii,467 p.,[1]folded leaf of plates : ill., map ; 27cm.</MODS:extent>
+          </MODS:physicalDescription>
+          <MODS:note type="statement of responsibility">by Prince Henri d'Orléans ; translated by Hamley Bent ; illustrated by G. Vuillier.</MODS:note>
+          <MODS:subject authority="lcsh">
+            <MODS:name type="personal">
+              <MODS:namePart type="termsOfAddress">Prince</MODS:namePart>
+              <MODS:namePart>Orléans, Henri d'</MODS:namePart>
+              <MODS:namePart type="date">1867-1901</MODS:namePart>
+            </MODS:name>
+            <MODS:topic>Journeys</MODS:topic>
+            <MODS:geographic>Asia, Southeastern</MODS:geographic>
+          </MODS:subject>
+          <MODS:subject authority="lcsh">
+            <MODS:geographic>Asia, Southeastern</MODS:geographic>
+            <MODS:topic>Description and travel</MODS:topic>
+          </MODS:subject>
+          <MODS:location>
+            <MODS:physicalLocation>British Library HMNTS 10056.g.25.</MODS:physicalLocation>
+          </MODS:location>
+          <MODS:location>
+            <MODS:physicalLocation>British Library DSC Wq4/5593</MODS:physicalLocation>
+          </MODS:location>
+          <MODS:location>
+            <MODS:physicalLocation>British Library OC V 10134</MODS:physicalLocation>
+          </MODS:location>
+          <MODS:recordInfo>
+            <MODS:recordContentSource authority="marcorg">Uk</MODS:recordContentSource>
+            <MODS:recordCreationDate encoding="w3cdtf">1985-10-10</MODS:recordCreationDate>
+            <MODS:recordChangeDate encoding="iso8601">20050620164715.0</MODS:recordChangeDate>
+            <MODS:recordIdentifier source="Uk">011836203</MODS:recordIdentifier>
+          </MODS:recordInfo>
+          <MODS:accessCondition type="Copyright Status">Out of Copyright</MODS:accessCondition>
+        </MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  </mets>
